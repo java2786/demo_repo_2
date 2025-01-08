@@ -9,3 +9,9 @@ Switch to new branch
 
 Merge into current branch
 > git merge styles
+
+Upload new branch
+> git push -u origin styles 
+
+check remote path
+> git remote -v
