@@ -6,3 +6,6 @@ Create a new branch named 'styles'
 
 Switch to new branch
 > git checkout styles
+
+Merge into current branch
+> git merge styles
