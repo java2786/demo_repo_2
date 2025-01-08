@@ -15,3 +15,11 @@ Upload new branch
 
 check remote path
 > git remote -v
+
+add and reset
+> git add filename1 filename2
+> git add .
+> git reset filename1
+> git reset .
+
+
