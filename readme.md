@@ -1,8 +1,8 @@
 # Title
 
 ## This is demo text
-- one 
-- two
+- **one** 
+- _two_
 - three
 
 ### Table  
@@ -22,3 +22,8 @@
             <td>24</td>
         </tr>
     </table>
+
+| Name | Age |
+|------|-------|
+| Ramesh | 23 |  
+| Suresh | 25 |
