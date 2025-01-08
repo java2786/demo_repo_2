@@ -1,0 +1,8 @@
+Show all branches
+> git branch
+
+Create a new branch named 'styles'
+> git branch styles
+
+Switch to new branch
+> git checkout styles
